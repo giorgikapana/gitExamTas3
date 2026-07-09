@@ -1,7 +1,11 @@
 this is a test file 1
+<<<<<<< HEAD
 
 
 
 add content 
 
 add content again
+=======
+add new content
+>>>>>>> 0daf244d1b8d82784e2d950d6a85b01a15713aca
